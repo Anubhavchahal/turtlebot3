@@ -48,10 +48,10 @@ The robot explores, maps the environment, and navigates from a given start pose 
 ## 📍 **How to run**
 
 ros2 launch autonomous_tb3 navigation.launch.py
-    3. In RViz:
-        ◦ Set "2D Pose Estimate" to initialize pose
-        ◦ Set "2D Nav Goal" to define target goal
-        ◦ Watch robot navigate while dynamically avoiding obstacles
+In RViz:
+◦ Set "2D Pose Estimate" to initialize pose
+◦ Set "2D Nav Goal" to define target goal
+◦ Watch robot navigate while dynamically avoiding obstacles
 
 🛠 Tools & Packages Used
     • ROS 2 (Humble)
